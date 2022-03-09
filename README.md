@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omkarpate
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Python
+- 🌱 I’m Python enthusiastic
 - 📫 you  can reach me through instagram @Omkar.c007
 
 <!---
